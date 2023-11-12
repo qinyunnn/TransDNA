@@ -9,7 +9,7 @@
 
 - Clone the repo
 ``` sh
-git clone https://github.com/qinyunnn/TansDNA.git
+git clone https://github.com/qinyunnn/TransDNA.git
 ```
 
 - Install Conda: please see https://docs.conda.io/en/latest/miniconda.html
